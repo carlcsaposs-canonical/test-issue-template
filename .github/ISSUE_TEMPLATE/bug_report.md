@@ -31,8 +31,8 @@ Juju agent:
 <!-- App revision from "juju status" or (advanced) commit hash -->
 Charm revision: 
 
-<!-- Run "lxd version" -->
-LXD: 
+<!-- Run "microk8s version" -->
+microk8s: 
 
 ## Log output
 <details>
